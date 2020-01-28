@@ -317,4 +317,19 @@ body {
     .middle {
       padding: 0;
     }
+    .resultsHeader {
+      flex-direction: column;
+    }
+    .resultsHeader h3 {
+      font-size: 2rem;
+    }
+    #newSearch {
+      margin: 1rem;
+    }
+    #weather {
+      font-size: .8rem;
+    }
+    .weatherDay {
+      font-size: 1.5rem;
+    }
   }
