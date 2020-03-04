@@ -18,7 +18,7 @@ Part of a three person developer team. Contributed to design, responsible for al
 
 ## Additional Collaborators
 [Christina Chon](https://github.com/christinachon)
-<br/>[Rachel Jones - GitHub](https://github.com/rachelleejones1)
+<br/>[Rachel Jones](https://github.com/rachelleejones1)
 
 ## Technologies
 HTML
